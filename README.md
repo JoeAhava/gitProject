@@ -10,3 +10,6 @@ LOZA MESFIN                 EITM/UR117774/09
 
 YOHANNES TERFA	            EITM/UR117699/09
 
+release infor
+-------------
+realse-1.2
