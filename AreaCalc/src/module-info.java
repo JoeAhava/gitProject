@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author Jehova
+ *
+ */
+class TriangleArea {
+	
+}
